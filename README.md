@@ -1,6 +1,4 @@
-## Hi, I'm Talha-Zübeyr Mutlu
-
-## 🧑‍💻 About Me
+## 🧑‍💻 Hi, I'm Talha-Zübeyr Mutlu
 I'm a 22-year-old student at 42 Wolfsburg, passionate about programming and continuously expanding my coding skills. Currently focusing on C programming and software development fundamentals.
 
 🌱 Learning Journey<br>- C Programming<br>- Low-level system programming<br>- Software engineering principles
